@@ -334,3 +334,5 @@ paru -S awesome-git ly-git
 ```sh
 sudo pacman -S alacritty fish picom btop rofi starship tmux stow git-delta stow
 ```
+
+## After this you are on your own, do anything you want
